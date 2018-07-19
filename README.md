@@ -1,9 +1,9 @@
-# [MEAN-Todo-App](#) [![version][version-badge]][CHANGELOG]
+# [MEAN-Todo-App](https://mean-smart-todo.herokuapp.com/) [![version][version-badge]][CHANGELOG]
 
   
   
 
-**[MEAN-Todo-App](#)** Simple todo application using MEAN(Mongodb, Express, Angular, Nodejs) stack
+**[MEAN-Todo-App](https://mean-smart-todo.herokuapp.com/)** Simple todo application using MEAN(Mongodb, Express, Angular, Nodejs) stack
 
   
 
@@ -11,7 +11,7 @@
 
   
 
-+  [Live Preview](#)
++  [Live Preview](https://mean-smart-todo.herokuapp.com/)
 
   
   

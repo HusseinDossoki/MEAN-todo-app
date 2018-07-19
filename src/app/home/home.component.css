@@ -1,0 +1,6 @@
+.fa-trash{
+  color: red;
+}
+.fa-trash:hover{
+  cursor: pointer;
+}

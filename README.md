@@ -1,27 +1,89 @@
-# MEANTodoApp
+# [MEAN-Todo-App](#) [![version][version-badge]][CHANGELOG]
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+  
+  
 
-## Development server
+**[MEAN-Todo-App](#)** Simple todo application using MEAN(Mongodb, Express, Angular, Nodejs) stack
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+  
 
-## Code scaffolding
+## Links:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  
 
-## Build
++  [Live Preview](#)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+  
+  
 
-## Running unit tests
+## Used Technologies:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+  
 
-## Running end-to-end tests
++  ```Nodejs with Express``` for backend
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
++  ```mongo``` for databse
 
-## Further help
++  ```angular``` for frontend
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+  
+  
+
+## Quick start
+
+  
+
+Quick start options:
+
+  
+
+-  [Download from Github](https://github.com/HusseinDossoki/MEAN-todo-app/archive/master.zip).
+
+- Clone the repo: `https://github.com/HusseinDossoki/MEAN-todo-app.git`.
+
+  
+
+## Terminal Commands
+
+  
+
+This project was generated with  ![nodejs]  ![npm] ![angular] ![angularcli]
+
+  
+
+1. Install NodeJs from [NodeJs Official Page](https://nodejs.org/en).
+
+2. Open Terminal
+
+3. Go to your file project
+
+4. Run in terminal: ```npm install```
+
+5. Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
+
+  
+  
+  
+
+## Useful Links
+
+  
+  
+
+Social Media:
+
+  
+
+Linkedin: <https://www.linkedin.com/in/husseindossoki/>
+
+  
+  
+  
+
+[CHANGELOG]: ./CHANGELOG.md
+
+[version-badge]: https://img.shields.io/badge/version-1.0.0-blue.svg
+[nodejs]: https://img.shields.io/badge/Nodejs-8.11.3-green.svg
+[npm]: https://img.shields.io/badge/NPM-5.6.0-yellow.svg
+[angular]: https://img.shields.io/badge/Angular-5.2.11-red.svg
+[angularcli]: https://img.shields.io/badge/AngularCLI-1.7.4-red.svg

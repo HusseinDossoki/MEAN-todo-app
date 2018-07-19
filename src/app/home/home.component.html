@@ -1,0 +1,27 @@
+<div class="container">
+
+  <h1 class="text-center mt-5">MEAN Todo Application</h1>
+
+  <div class="row my-5">
+    <div class="col-md-8 mx-auto">
+      <form class="well" (submit)="addTodo()">
+        <div class="form-group">
+          <input type="text" name="todoInput" [(ngModel)]="todoInput" class="form-control" placeholder="add todo ......">
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="row mb-5">
+    <div class="col-md-10 mx-auto">
+      <ul class="list-group list-group-flush">
+        <li *ngFor="let todo of todos" class="list-group-item d-flex justify-content-between align-items-center">
+          <input type="checkbox" [checked]="todo.isDone" (click)="updateStatus(todo)">
+          <p class="float-left">{{todo.title}}</p>
+          <i class="fas fa-trash" (click)="removeTodo(todo._id)"></i>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</div>
